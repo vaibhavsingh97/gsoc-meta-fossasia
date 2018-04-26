@@ -15,4 +15,4 @@ This repo is a meta tracker for my GSOC project for the FOSSASIA organization
 
 | GSOC Proposal | Project on GSOC Website |
 |---------------|-------------------------|
-|   [<img src="images/docs.png" alt="Drawing" style="width: 60px;"/>](https://github.com/vaibhavsingh97/gsoc-meta-fossasia/blob/master/notes/gsoc-proposal.pdf)           |   [<img src="images/link.png" alt="Drawing" style="width: 60px;"/>](https://summerofcode.withgoogle.com/projects/#5601468132884480)                     |
+|   [<img src="images/docs.png" alt="Drawing" height="60px"/>](https://github.com/vaibhavsingh97/gsoc-meta-fossasia/blob/master/notes/gsoc-proposal.pdf)           |   [<img src="images/link.png" alt="Drawing" height="60px"/>](https://summerofcode.withgoogle.com/projects/#5601468132884480)                     |
